@@ -13,7 +13,8 @@ Evaluation 라이센스 만료 기간 : 2024년 03월 22일 <br>
 1. INFO
 - OS : MacOS
 - Chip : Apple M1 Pro
-- JDK : oracle openjdk
+- JDK : oracle openjdk 21
+- Gradle : 8.6
 
 2. IntelliJ 설치
 - IntelliJ [설치 링크](https://www.jetbrains.com/ko-kr/ides/)<br>
